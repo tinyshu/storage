@@ -52,7 +52,7 @@ EasyDisk是一个个人存储网络，其目标是成为一个通用，易扩展
 
 #### 3.服务端架构
 
-https://github.com/tinyshu/storage.git/raw/master/resources/images/server.jpg
+![client](https://github.com/tinyshu/storage.git/raw/master/resources/images/server.jpg)
 
 
 
