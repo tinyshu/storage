@@ -63,7 +63,7 @@ Rectangle {
          color: "#EEF0F6"
 
          Text {
-              text: "xxx网盘-shuyi"
+              text: "EasyDisk(shuyi)"
               font.family: "Helvetica"
               font.pointSize: 14
               color: "#666666"
