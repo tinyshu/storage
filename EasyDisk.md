@@ -58,7 +58,7 @@ EasyDisk是一个个人存储网络，其目标是成为一个通用，易扩展
 
 #### 客户端UI
 
-https://github.com/tinyshu/storage.git/raw/master/resources/images/client.png
+![client](https://github.com/tinyshu/storage/blob/master/resources/images/client.png)
 
 ### 4.编译和部署
 
