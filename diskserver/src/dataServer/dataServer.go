@@ -1,5 +1,9 @@
 package main
+<<<<<<< HEAD
 //test2
+
+//test1
+>>>>>>> test1
 import (
 	"./heartbeat"
 	"./locate"
